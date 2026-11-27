@@ -3,6 +3,7 @@
     {
       "id": "classroom-english-2",
       "title": "课堂英语 2",
+      "description": "排队、一起玩、我饿了和对不起",
       "file": "classroom-english-2.json",
       "bytes": 262115,
       "updated": "2026-11-26T14:51:58+08:00"
@@ -10,20 +11,23 @@
     {
       "id": "classroom-english",
       "title": "课堂英语",
+      "description": "问候、听不懂、请求帮助和谢谢",
       "file": "classroom-english.json",
       "bytes": 299456,
       "updated": "2026-11-22T23:11:15+08:00"
     },
     {
       "id": "2026-11-20",
-      "title": "11月20日 看图说",
+      "title": "11月20日周报",
+      "description": "古诗《山居秋暝》，北京景点和大数字",
       "file": "2026-11-20.json",
       "bytes": 4425070,
       "updated": "2026-11-20T18:48:21+08:00"
     },
     {
       "id": "2026-11-13",
-      "title": "11月13日 看图说",
+      "title": "11月13日周报",
+      "description": "古诗《山居秋暝》，认字、形状和数字",
       "file": "2026-11-13.json",
       "bytes": 410429,
       "updated": "2026-11-20T17:27:00+08:00"
